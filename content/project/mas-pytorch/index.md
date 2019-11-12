@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Refinenet"
-summary: "A PyTorch implementation of the CVPR 2017 publication RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation"
-authors: []
+title: "Mas Pytorch"
+summary: "A PyTorch implementation of the ECCV 2018 publication Memory Aware Synapses:Learning what (not) to forget"
+authors: [Sai Himal Allu]
 tags: [Deep Learning]
 categories: []
-date: 2019-08-25T03:08:00+09:30
+date: 2019-11-12T11:44:14+09:30
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/wannabeOG/RefineNet-A-Pytorch-implementation"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/wannabeOG/RefineNet-A-Pytorch-implementation"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
