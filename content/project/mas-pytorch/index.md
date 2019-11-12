@@ -9,7 +9,7 @@ categories: []
 date: 2019-11-12T11:44:14+09:30
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/wannabeOG/MAS-PyTorch"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/wannabeOG/MAS-PyTorch"
 url_pdf: ""
 url_slides: ""
 url_video: ""
