@@ -21,7 +21,7 @@
   url = "files/cv.pdf"
   weight = 70
 
-[[main]]
-  name = "Research Statement"
-  url = "files/rstatement.pdf"
-  weight = 80
+#[[main]]
+#  name = "Research Statement"
+#  url = "files/rstatement.pdf"
+#  weight = 80
