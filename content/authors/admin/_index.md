@@ -41,10 +41,10 @@ social:
   link: mailto:"sallu@ec.iitr.ac.in"  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/saihimal-allu
+  link: https://www.linkedin.com/in/saihimal-allu/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/wannabeOG
+  link: https://twitter.com/wannabe_OG
 - icon: github
   icon_pack: fab
   link: https://github.com/wannabeOG
