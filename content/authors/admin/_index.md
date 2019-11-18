@@ -67,6 +67,11 @@ user_groups:
 - Visitors
 ---
 
-I am in the senior year of my undergraduate program at the Indian Institute of Technology, Roorkee majoring in Electronics and Communication Engineering. My research interests include Computer Vision (especially the problems of detection and segmentation), Lifelong Learning and Reinforcement Learning. I am especially interested in the problem of catastrophic forgetting in neural networks and the effect that it has on the scalability of detection networks to a more general paradigm. 
+I am in the senior year of my undergraduate program at the Indian Institute of Technology, Roorkee majoring in Electronics and Communication Engineering. My research interests include Computer Vision (especially the problems of detection and segmentation), Lifelong Learning and Reinforcement Learning. 
 
-I am currently working on my undergraduate thesis at the BCMI Lab, Shanghai Jiatong University where I am advised by Dr Hongtao Lu and Dr Debashis Ghosh. I was also involved with the Machine learning and Data Science (ML-DS) team at American Express in the capacity of an intern in Summer 2019. I love to open source implementations of popular research papers in my leisure time in an effort to contribute to the research efforts in the fields of my interest.   
+I am currently working on my undergraduate thesis at the BCMI Lab, Shanghai Jiatong University where I am advised by Dr Hongtao Lu and Dr Debashis Ghosh. I am working on the problem of continual learning and catastrophic forgetting in neural networks. I am specifically interested in a paradigm where the demarcation between tasks is not known to the model and the model must learn the ability to distinguish between the different tasks on it's own ([defined][1] as "single-head setting")
+
+I was also involved with the Machine learning and Data Science (ML-DS) team at American Express in the capacity of an intern in Summer 2019. I love to open source implementations of popular research papers in my leisure time in an effort to contribute to the research efforts in the fields of my interest.   
+
+
+[1]: https://arxiv.org/pdf/1801.10112.pdf
