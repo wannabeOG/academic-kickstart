@@ -21,15 +21,14 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Computer Vision
-- Lifelong Learning
-- Reinforcement Learning
+- Transfer Learning 
+- Continual Learning
 
 education:
   courses:
   - course: Bachelor of Technology in ECE
-    institution: Ongoing; Indian Institute of Technology, Roorkee
-    year: 
+    institution: Indian Institute of Technology, Roorkee
+    year: 2016-2020
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -67,11 +66,13 @@ user_groups:
 - Visitors
 ---
 
-I am in the senior year of my undergraduate program at the Indian Institute of Technology, Roorkee majoring in Electronics and Communication Engineering. My research interests include Computer Vision (especially the problems of detection and segmentation), Lifelong Learning and Reinforcement Learning. 
+I am currently a research assistant at CVIT Hyderabad, advised by Professors [C.V Jawahar][1] and [Vinay Namboodiri][2]. Broadly, I am interested in studying the responses that intelligent agents have whilst interacting with their environments. I hold the view that these interactions help the agents evolve a form of "language" which encodes their internal model of the environment, which could then be exploited to accelerate learning on any future novel tasks.  As such, this premise has led me to hold research interests in Transfer and Continual learning. 
 
-I am currently working on my undergraduate thesis at the BCMI Lab, Shanghai Jiatong University where I am advised by Dr Hongtao Lu and Dr Debashis Ghosh. I am working on the problem of continual learning and catastrophic forgetting in neural networks. I am specifically interested in a paradigm where the demarcation between tasks is not known to the model and the model must learn the ability to distinguish between the different tasks on it's own ([defined][1] as "single-head setting")
+I completed my undergraduate degree with a major in Electronics and Communication Engineering from the Indian Institute of Technology, Roorkee. My undergrad thesis (partly carried out at Shanghai Jiaotong University) was concerned with trying to analyze the extensibility of continual learning algorithms to a stricter evaluation setting and from this analysis, attempt to derive insights about the inherent nature of a particular class (regularization-based) of these algorithms. 
 
-I was also involved with the Machine learning and Data Science (ML-DS) team at American Express in the capacity of an intern in Summer 2019. I love to open source implementations of popular research papers in my leisure time in an effort to contribute to the research efforts in the fields of my interest.   
+I spent Summer 2018 working on the problem of object detection in images at the [BCMI lab][3] under the guidance of Dr Hongtao Lu. I also interned at the Machine learning and Data Science (ML-DS) team at American Express in Summer 2019. I love to contribute to ongoing research efforts by open-sourcing the implementations of some major conference papers in an effort to reproduce their results. 
 
 
-[1]: https://arxiv.org/pdf/1801.10112.pdf
+[1]: https://faculty.iiit.ac.in/~jawahar/#:~:text=Professor%20at%20IIIT%20Hyderabad%2C%20India,Machine%20Learning
+[2]: https://vinaypn.github.io/
+[3]: http://bcmi.sjtu.edu.cn/
